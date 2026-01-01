@@ -1,0 +1,12 @@
+{
+  "name": "softuni-practice-server",
+  "version": "1.0.0",
+  "description": "1. Register to Google Cloud Platform [X]\r  2. Create Project in GCP `Softuni-Practice-Server` [X]\r  3. Install Docker [X]\r  4. Create Docker image\r  - Create Docker File",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
